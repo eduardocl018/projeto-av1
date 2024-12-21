@@ -1,0 +1,270 @@
+.incio-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 159px;
+}
+.logo-shopping-online-laranja2,
+.logo-shopping-online-laranja3 {
+  position: absolute;
+  top: -33px;
+  left: 0;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.logo-shopping-online-laranja3 {
+  top: -71px;
+  left: 170px;
+  width: 323px;
+  height: 323px;
+}
+.group-icon1 {
+  position: absolute;
+  height: 3.42%;
+  width: 2.67%;
+  top: 7.13%;
+  right: 3.58%;
+  bottom: 89.45%;
+  left: 93.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.incio-item {
+  position: absolute;
+  top: 61px;
+  left: 559px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  width: 733px;
+  height: 54px;
+}
+.buscar-na-conecta {
+  position: absolute;
+  top: 76px;
+  left: 572px;
+  font-weight: 500;
+  color: #8a8a8a;
+}
+.incio-inner {
+  position: absolute;
+  top: 65px;
+  left: 1212px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslategray);
+  width: 76px;
+  height: 47px;
+}
+.material-symbolssearch-icon {
+  position: absolute;
+  top: 73px;
+  left: 1232px;
+  width: 36px;
+  height: 31px;
+  overflow: hidden;
+}
+.ellipse-div {
+  position: absolute;
+  top: 5px;
+  left: 1264px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 24px;
+  height: 24px;
+}
+.eduardocl18,
+.idioma {
+  position: absolute;
+  top: 5px;
+  left: 1291px;
+  font-weight: 500;
+}
+.idioma {
+  left: 1166px;
+}
+.weuiarrow-outlined-icon {
+  position: absolute;
+  top: 11px;
+  left: 1225px;
+  width: 24px;
+  height: 12px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.ajuda {
+  position: absolute;
+  top: 5px;
+  left: 1060px;
+  font-weight: 500;
+}
+.mingcutequestion-line-icon {
+  position: absolute;
+  top: 5px;
+  left: 1115px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.incio-child1 {
+  position: absolute;
+  top: 159px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 470px;
+}
+.incio-child2 {
+  position: absolute;
+  top: 163px;
+  left: 82px;
+  border-radius: var(--br-9xs);
+  background-color: #c4c4c4;
+  width: 1275px;
+  height: 362px;
+}
+.weuiarrow-filled-icon,
+.weuiarrow-filled-icon1 {
+  position: absolute;
+  top: 304px;
+  width: 40px;
+  height: 80px;
+  overflow: hidden;
+}
+.weuiarrow-filled-icon {
+  left: 87px;
+  object-fit: contain;
+}
+.weuiarrow-filled-icon1 {
+  left: 1310px;
+}
+.incio-child3 {
+  position: absolute;
+  top: 169px;
+  left: 157px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 596px;
+  height: 356px;
+}
+.download-1-removebg-preview-icon {
+  position: absolute;
+  top: 115px;
+  left: 104px;
+  width: 464px;
+  height: 434.4px;
+  object-fit: contain;
+}
+.pngtree-airpods-pro-wireless-b-icon {
+  position: absolute;
+  top: 194px;
+  left: 418px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.incio-child4 {
+  position: absolute;
+  top: 410px;
+  left: 939px;
+  border-radius: 100px;
+  background-color: var(--color-darkslategray);
+  width: 275px;
+  height: 37px;
+}
+.compre-agora {
+  position: absolute;
+  top: 408px;
+  left: 955px;
+  font-size: var(--font-size-11xl);
+  font-weight: 800;
+}
+.a-sua-loja {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.a-sua-loja-container {
+  position: absolute;
+  top: 175px;
+  left: 683px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-krona-one);
+  color: var(--color-darkslategray);
+}
+.entregando-seu-pedido {
+  position: absolute;
+  top: 498px;
+  left: 1050px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.bxsup-arrow-icon {
+  position: absolute;
+  top: 416px;
+  left: 1172px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.fadheadphones-icon,
+.fadmicrophone-icon,
+.mdihome-sound-in-outline-icon {
+  position: absolute;
+  top: 552px;
+  left: 380px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.fadmicrophone-icon,
+.mdihome-sound-in-outline-icon {
+  left: 486px;
+}
+.mdihome-sound-in-outline-icon {
+  top: 554px;
+  left: 592px;
+  width: 38px;
+  height: 38px;
+}
+.fluentheadphones-sound-wave-2-icon,
+.icon-park-outlinesound {
+  position: absolute;
+  top: 553px;
+  left: 698px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.icon-park-outlinesound {
+  left: 804px;
+}
+.mdiclock-outline-icon,
+.mdismart-home-icon {
+  position: absolute;
+  top: 549px;
+  left: 910px;
+  width: 44px;
+  height: 41.1px;
+  overflow: hidden;
+}
+.mdiclock-outline-icon {
+  top: 551px;
+  left: 1022px;
+  width: 38px;
+  height: 38px;
+}
+.incio {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

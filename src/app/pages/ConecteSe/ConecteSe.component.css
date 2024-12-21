@@ -1,0 +1,260 @@
+.ba40542ba96fb2bb3e9fb1f554c3ca-icon1 {
+  position: absolute;
+  top: 159px;
+  left: 0;
+  width: 1440px;
+  height: 886px;
+  object-fit: cover;
+}
+.conecte-se-child,
+.conecte-se-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 159px;
+}
+.conecte-se-item {
+  top: 275px;
+  left: 763px;
+  border-radius: var(--br-3xs);
+  width: 579px;
+  height: 603px;
+}
+.apple1,
+.conecte-se1,
+.facebook1,
+.google1 {
+  position: absolute;
+  top: 760px;
+  left: 1210px;
+  font-weight: 500;
+}
+.conecte-se1,
+.facebook1,
+.google1 {
+  left: 1041px;
+}
+.conecte-se1,
+.facebook1 {
+  left: 862px;
+}
+.conecte-se1 {
+  top: 304px;
+  left: 811px;
+  font-size: var(--font-size-21xl);
+}
+.conecte-se-inner {
+  top: 397px;
+  left: 811px;
+  border: 1px solid var(--color-whitesmoke);
+  width: 486px;
+  height: 54px;
+}
+.conecte-se-child1,
+.conecte-se-child2,
+.conecte-se-inner {
+  position: absolute;
+  border-radius: var(--br-11xs);
+  box-sizing: border-box;
+}
+.conecte-se-child1 {
+  top: 605px;
+  left: 810px;
+  background-color: var(--color-steelblue);
+  border: 1px solid var(--color-steelblue);
+  width: 488px;
+  height: 56px;
+  cursor: pointer;
+}
+.conecte-se-child2 {
+  top: 496px;
+  left: 811px;
+  border: 1px solid var(--color-whitesmoke);
+  width: 486px;
+  height: 54px;
+}
+.esqueci-minha-senha,
+.ou1 {
+  position: absolute;
+  top: 669px;
+  left: 811px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+}
+.ou1 {
+  top: 693px;
+  left: 1041px;
+  color: var(--color-whitesmoke);
+  opacity: 0.84;
+}
+.conecte-se-child3,
+.conecte-se-child4 {
+  position: absolute;
+  top: 701.5px;
+  left: 810.5px;
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 208px;
+  height: 1px;
+}
+.conecte-se-child4 {
+  left: 1084.5px;
+  width: 213px;
+}
+.entre1 {
+  position: absolute;
+  top: 621px;
+  left: 1020px;
+  font-weight: 500;
+}
+.conecte-se-child5,
+.conecte-se-child6,
+.conecte-se-child7 {
+  position: absolute;
+  top: 741px;
+  left: 811px;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 154px;
+  height: 61px;
+  cursor: pointer;
+}
+.conecte-se-child6,
+.conecte-se-child7 {
+  left: 977px;
+}
+.conecte-se-child7 {
+  left: 1143px;
+}
+.nome-de-usurioemail2 {
+  top: 412px;
+  left: 832px;
+  opacity: 0.3;
+}
+.nome-de-usurioemail2,
+.precisa-de-ajuda1,
+.senha2 {
+  position: absolute;
+  font-weight: 500;
+}
+.senha2 {
+  top: 511px;
+  left: 832px;
+  opacity: 0.3;
+}
+.precisa-de-ajuda1 {
+  top: 67px;
+  left: 1174px;
+}
+.logo-shopping-online-laranja4 {
+  position: absolute;
+  top: -33px;
+  left: 0;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.logo-shopping-online-laranja5,
+.post-para-instagram-promoo-l1 {
+  position: absolute;
+  top: -82px;
+  left: 170px;
+  width: 323px;
+  height: 323px;
+  object-fit: cover;
+}
+.post-para-instagram-promoo-l1 {
+  top: 201px;
+  left: 0;
+  width: 751px;
+  height: 751px;
+}
+.siga-nos-para-mais1 {
+  position: absolute;
+  top: 958px;
+  left: 276px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 887px;
+  height: 46px;
+}
+.conecte-se-child8,
+.deviconapple1 {
+  position: absolute;
+  top: 754px;
+  left: 1173px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.conecte-se-child8 {
+  height: 3.52%;
+  width: 2.5%;
+  top: 73.63%;
+  right: 40.63%;
+  bottom: 22.85%;
+  left: 56.88%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.flat-color-iconsgoogle1 {
+  position: absolute;
+  top: 754px;
+  left: 998px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.devicontwitter1,
+.logostiktok-icon1 {
+  position: absolute;
+  top: 963px;
+  left: 1065px;
+  width: 24px;
+  height: 27px;
+  overflow: hidden;
+}
+.devicontwitter1 {
+  top: 965px;
+  left: 1099px;
+  height: 24px;
+}
+.novo-na-conecta {
+  position: absolute;
+  top: 832px;
+  left: 874px;
+  font-weight: 500;
+  opacity: 0.3;
+}
+.cadastrar3 {
+  position: absolute;
+  top: 832px;
+  left: 1135px;
+  font-weight: 600;
+  color: var(--color-steelblue);
+  cursor: pointer;
+}
+.skill-iconsinstagram1 {
+  position: absolute;
+  top: 966px;
+  left: 1028px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.conecte-se {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

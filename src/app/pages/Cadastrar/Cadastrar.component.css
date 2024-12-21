@@ -1,0 +1,287 @@
+.ba40542ba96fb2bb3e9fb1f554c3ca-icon {
+  position: absolute;
+  top: 159px;
+  left: 0;
+  width: 1440px;
+  height: 886px;
+  object-fit: cover;
+}
+.cadastrar-child,
+.cadastrar-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 159px;
+}
+.cadastrar-item {
+  top: 275px;
+  left: 763px;
+  border-radius: var(--br-3xs);
+  width: 579px;
+  height: 603px;
+}
+.apple,
+.cadastrar1,
+.facebook,
+.google {
+  position: absolute;
+  top: 760px;
+  left: 1210px;
+  font-weight: 500;
+}
+.cadastrar1,
+.facebook,
+.google {
+  left: 1041px;
+}
+.cadastrar1,
+.facebook {
+  left: 862px;
+}
+.cadastrar1 {
+  top: 294px;
+  left: 811px;
+  font-size: var(--font-size-21xl);
+}
+.cadastrar-inner {
+  top: 352px;
+  left: 811px;
+  border: 1px solid var(--color-whitesmoke);
+  width: 486px;
+  height: 54px;
+}
+.cadastrar-child1,
+.cadastrar-inner,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-11xs);
+  box-sizing: border-box;
+}
+.rectangle-div {
+  top: 633px;
+  left: 810px;
+  background-color: var(--color-steelblue);
+  border: 1px solid var(--color-steelblue);
+  width: 488px;
+  height: 56px;
+  cursor: pointer;
+}
+.cadastrar-child1 {
+  top: 487px;
+  left: 811px;
+  border: 1px solid var(--color-whitesmoke);
+  width: 486px;
+  height: 54px;
+}
+.ou {
+  position: absolute;
+  top: 708px;
+  left: 1041px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color-whitesmoke);
+  opacity: 0.84;
+}
+.cadastrar-child2,
+.line-div {
+  position: absolute;
+  top: 716.5px;
+  left: 810.5px;
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 208px;
+  height: 1px;
+}
+.cadastrar-child2 {
+  left: 1084.5px;
+  width: 213px;
+}
+.cadastrar2 {
+  position: absolute;
+  top: 649px;
+  left: 993px;
+  font-weight: 500;
+}
+.cadastrar-child3,
+.cadastrar-child4,
+.cadastrar-child5 {
+  position: absolute;
+  top: 741px;
+  left: 811px;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 154px;
+  height: 61px;
+  cursor: pointer;
+}
+.cadastrar-child4,
+.cadastrar-child5 {
+  left: 977px;
+}
+.cadastrar-child5 {
+  left: 1143px;
+}
+.nome-de-usurioemail {
+  position: absolute;
+  top: 367px;
+  left: 832px;
+  font-weight: 500;
+  opacity: 0.3;
+}
+.cadastrar-child6 {
+  position: absolute;
+  top: 419px;
+  left: 811px;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 486px;
+  height: 54px;
+}
+.nome-de-usurioemail1,
+.senha {
+  position: absolute;
+  top: 434px;
+  left: 832px;
+  font-weight: 500;
+  opacity: 0.3;
+}
+.senha {
+  top: 502px;
+}
+.cadastrar-child7 {
+  position: absolute;
+  top: 555px;
+  left: 811px;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 486px;
+  height: 54px;
+}
+.senha1 {
+  position: absolute;
+  top: 570px;
+  left: 832px;
+  font-weight: 500;
+  opacity: 0.3;
+}
+.logo-shopping-online-laranja {
+  position: absolute;
+  top: -33px;
+  left: 0;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.logo-shopping-online-laranja1,
+.post-para-instagram-promoo-l {
+  position: absolute;
+  top: -82px;
+  left: 170px;
+  width: 323px;
+  height: 323px;
+  object-fit: cover;
+}
+.post-para-instagram-promoo-l {
+  top: 201px;
+  left: 0;
+  width: 751px;
+  height: 751px;
+}
+.siga-nos-para-mais {
+  position: absolute;
+  top: 958px;
+  left: 276px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 887px;
+  height: 46px;
+}
+.deviconapple,
+.group-icon {
+  position: absolute;
+  top: 754px;
+  left: 1173px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.group-icon {
+  height: 3.52%;
+  width: 2.5%;
+  top: 73.63%;
+  right: 40.63%;
+  bottom: 22.85%;
+  left: 56.88%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.flat-color-iconsgoogle {
+  position: absolute;
+  top: 754px;
+  left: 998px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.devicontwitter,
+.logostiktok-icon {
+  position: absolute;
+  top: 963px;
+  left: 1065px;
+  width: 24px;
+  height: 27px;
+  overflow: hidden;
+}
+.devicontwitter {
+  top: 965px;
+  left: 1099px;
+  height: 24px;
+}
+.entre,
+.tem-uma-conta {
+  position: absolute;
+  top: 827px;
+}
+.tem-uma-conta {
+  left: 946px;
+  font-weight: 500;
+  opacity: 0.3;
+}
+.entre {
+  left: 1108px;
+  font-weight: 600;
+  color: var(--color-steelblue);
+  cursor: pointer;
+}
+.skill-iconsinstagram {
+  position: absolute;
+  top: 966px;
+  left: 1028px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.precisa-de-ajuda {
+  position: absolute;
+  top: 67px;
+  left: 1174px;
+  font-weight: 500;
+}
+.cadastrar {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
